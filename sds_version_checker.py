@@ -12,7 +12,7 @@ Az adatbázis felépítése UTÁN automatikusan:
 Telepítés:
     pip install streamlit openai requests beautifulsoup4 openpyxl
 
-Ez a modul a sds_processor_v3.py kiegészítése.
+Ez a modul a sds_processor_v2.py kiegészítése.
 """
 
 import streamlit as st
