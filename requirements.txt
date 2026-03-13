@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+streamlit[auth]
+openai>=1.12.0
+openpyxl>=3.1.0
+PyPDF2>=3.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+st-paywall>=0.6.0
+clientapi-barion>=1.0.0
