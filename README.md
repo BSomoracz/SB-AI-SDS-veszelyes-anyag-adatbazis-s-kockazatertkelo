@@ -1,5 +1,6 @@
 # 🧪 SDS → Excel AI Feldolgozó v3.0
 
+
 Biztonsági adatlapok (SDS/MSDS) automatikus feldolgozása mesterséges intelligenciával.
 **6 munkalap**, H/P mondatok kifejtve, védőeszköz specifikáció, kémiai kockázatértékelés.
 
